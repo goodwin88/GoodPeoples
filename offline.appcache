@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1535759871
+#1535766282
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -46,6 +46,8 @@ images/faceearlobe-sheet0.png
 images/faceearlobe-sheet1.png
 images/faceearlobe-sheet2.png
 images/irisleft-sheet0.png
+images/facechin-sheet0.png
+images/facechin-sheet1.png
 icon-16.png
 icon-32.png
 icon-114.png

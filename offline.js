@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1535759871,
+	"version": 1535766282,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -47,6 +47,8 @@
 		"images/faceearlobe-sheet1.png",
 		"images/faceearlobe-sheet2.png",
 		"images/irisleft-sheet0.png",
+		"images/facechin-sheet0.png",
+		"images/facechin-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
