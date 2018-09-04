@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1535849873
+#1536040083
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -21,6 +21,7 @@ images/colorfaceblue-sheet0.png
 images/colorfaceyellow-sheet0.png
 images/colorfaceblack-sheet0.png
 images/eyeleft-sheet0.png
+images/eyeleft-sheet1.png
 images/eyelidleftlower-sheet0.png
 images/eyelidleftupper-sheet0.png
 images/eyebrowleft-sheet0.png
@@ -48,6 +49,7 @@ images/faceearlobe-sheet2.png
 images/irisleft-sheet0.png
 images/facechin-sheet0.png
 images/facechin-sheet1.png
+images/logo-sheet0.png
 icon-16.png
 icon-32.png
 icon-114.png

@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1535849873,
+	"version": 1536040083,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -22,6 +22,7 @@
 		"images/colorfaceyellow-sheet0.png",
 		"images/colorfaceblack-sheet0.png",
 		"images/eyeleft-sheet0.png",
+		"images/eyeleft-sheet1.png",
 		"images/eyelidleftlower-sheet0.png",
 		"images/eyelidleftupper-sheet0.png",
 		"images/eyebrowleft-sheet0.png",
@@ -49,6 +50,7 @@
 		"images/irisleft-sheet0.png",
 		"images/facechin-sheet0.png",
 		"images/facechin-sheet1.png",
+		"images/logo-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
