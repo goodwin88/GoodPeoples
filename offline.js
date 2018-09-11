@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1536236128,
+	"version": 1536679587,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -16,7 +16,7 @@
 		"images/faceforehead-sheet0.png",
 		"images/faceforehead-sheet1.png",
 		"images/facecheek-sheet0.png",
-		"images/faceheadquadrant5-sheet0.png",
+		"images/facenoseback-sheet0.png",
 		"images/colorfacered-sheet0.png",
 		"images/colorfaceblue-sheet0.png",
 		"images/colorfaceyellow-sheet0.png",
@@ -30,7 +30,7 @@
 		"images/eyebrowright-sheet0.png",
 		"images/eyebrowright-sheet1.png",
 		"images/eyelidrightlower-sheet0.png",
-		"images/faceheadquadrant7-sheet0.png",
+		"images/facenosebridge-sheet0.png",
 		"images/facenosefill-sheet0.png",
 		"images/facenose-sheet0.png",
 		"images/nostril-sheet0.png",
@@ -52,6 +52,8 @@
 		"images/facechin-sheet0.png",
 		"images/facechin-sheet1.png",
 		"images/logo-sheet0.png",
+		"images/facemouthback-sheet0.png",
+		"images/anchormouthcorner-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
