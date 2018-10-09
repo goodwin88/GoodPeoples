@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1539119210,
+	"version": 1539128226,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -87,6 +87,10 @@
 		"images/particlethoughtbubble.png",
 		"images/bubblet-sheet0.png",
 		"images/mini9gridbar-sheet0.png",
+		"images/emoji-sheet0.png",
+		"images/emoji-sheet1.png",
+		"images/emoji-sheet2.png",
+		"images/emoji-sheet3.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
