@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1539128226,
+	"version": 1539372401,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -91,6 +91,8 @@
 		"images/emoji-sheet1.png",
 		"images/emoji-sheet2.png",
 		"images/emoji-sheet3.png",
+		"images/uibuttonleft-sheet0.png",
+		"images/uibuttonleft-sheet1.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
