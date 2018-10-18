@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1539878675,
+	"version": 1539881156,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -24,6 +24,7 @@
 		"images/eyeleft-sheet0.png",
 		"images/eyeleft-sheet1.png",
 		"images/eyelidleftlower-sheet0.png",
+		"images/eyelidleftlower-sheet1.png",
 		"images/eyelidleftupper-sheet0.png",
 		"images/eyebrowleft-sheet0.png",
 		"images/eyebrowleft-sheet1.png",
