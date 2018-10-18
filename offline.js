@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1539372401,
+	"version": 1539878675,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -35,6 +35,7 @@
 		"images/facenose-sheet0.png",
 		"images/nostril-sheet0.png",
 		"images/nostril-sheet1.png",
+		"images/nostril-sheet2.png",
 		"images/mouthcrease-sheet0.png",
 		"images/whiteoutgame-sheet0.png",
 		"images/mouthlips-sheet0.png",
